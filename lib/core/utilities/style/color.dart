@@ -1,0 +1,33 @@
+import 'package:flutter/material.dart';
+
+final blueDark = Color(0xFF172b4d);
+final greyColor = Color(0xFF5e6c84);
+final greyLittleColor = Color(0xFF6c798f);
+final lightGreyColor = Color.fromRGBO(246, 246, 248, 1);
+final littleGreyColor = Color(0xFFb3bac5);
+final lightGreyBackground = Color(0xFFFAFBFD);
+final blueColor = Color(0xFF0052cc);
+final blueFloatingColor = Color(0xFF0065ff);
+final darkColor = Color(0xFF253858);
+final darkOrangeColor = Color(0xFFfd652e);
+final textGreyColor = Color(0xFF5e6c84);
+final greenCheckColor = Color(0xFF36b27e);
+final redCheckColor = Color(0xFFff5630);
+final redErrorColor = Color.fromRGBO(157, 2, 96, 1);
+final red = Colors.red;
+final green = Colors.green;
+
+Color containerBg = Colors.green[200];
+Color white = Colors.white;
+Color backgroundColorWhite = Colors.white;
+Color bottomSheet = Colors.grey[500];
+Color transparent = Colors.transparent;
+Color textColor = Colors.grey[700];
+Color textColorBlack = Colors.black;
+Color bgContainer = Color(0xFFf1f5f6);
+Color greyIconColor = Color(0xFF8e8e93);
+Color lightHintTextColor = Color(0xFF7a869a);
+Color blueTextColor = Color(0xFF0052cc);
+Color lightTextColor = Color(0xFF6c798f);
+Color darkTextColor = Color(0xFF253858);
+Color headingDarkTextColor = Color(0xFF172b4d);
